@@ -1,0 +1,19 @@
+body{
+    color: black;
+    background: rgb(36, 248, 142);
+}
+
+#camera{
+    height:300px;
+    width:350px;
+    border: 2px solid rgb(241, 16, 35);
+}
+
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+
+.name_of_my_family_members, #result_face_family_member, #result_face_accuracy{
+    color:rgb(29, 9, 10);
+}
